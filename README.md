@@ -1,2 +1,3 @@
-# iic-website
-iic websitekk
+# IIC Website for Vardhaman College of Engineering
+
+Theme from ADDA Association.
